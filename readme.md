@@ -29,19 +29,19 @@ The dataset used in this project is available [here](data\Store_Transaction_Data
 
 ### 2. Value Distribution
 
-![Value Distribution](value_distribution.png)
+![Value Distribution](graphs/value_distribution.png)
 
 - **Explanation**: This graph depicts the distribution of transaction values. It provides insights into the financial aspect of customer behavior, indicating whether transactions are generally of low, medium, or high value.
 
 ### 3. Monthly Quantity Trend
 
-![Monthly Quantity Trend](monthly_quantity_trend.png)
+![Monthly Quantity Trend](graphs/monthly_quantity_trend.png)
 
 - **Explanation**: This time series plot shows the trend in the quantity of items purchased each month. It helps identify seasonal patterns and fluctuations in customer demand over time.
 
 ### 4. Monthly Value Trend
 
-![Monthly Value Trend](monthly_value_trend.png)
+![Monthly Value Trend](graphs/monthly_value_trend.png)
 
 - **Explanation**: This graph represents the monthly trend in transaction values. It is crucial for understanding how the monetary aspect of customer behavior changes over time, which can be influenced by factors such as promotions or seasonal sales.
 
@@ -49,19 +49,19 @@ The dataset used in this project is available [here](data\Store_Transaction_Data
 
 ### 5. Store Performance by Value
 
-![Store Performance by Value](store_performance_by_value.png)
+![Store Performance by Value](graphs/store_performance_by_value.png)
 
 - **Explanation**: This bar chart compares the performance of different stores based on the total value of transactions. It highlights which stores are the top performers and which may need strategic improvements.
 
 ### 6. Product Group Performance by Value
 
-![Product Group Performance by Value](product_group_performance_by_value.png)
+![Product Group Performance by Value](graphs/product_group_performance_by_value.png)
 
 - **Explanation**: This chart shows the total transaction value for different product groups. It identifies which categories are most popular among customers and generate the most revenue.
 
 ### 7. Campaign Performance by Value
 
-![Campaign Performance by Value](campaign_performance_by_value.png)
+![Campaign Performance by Value](graphs/campaign_performance_by_value.png)
 
 - **Explanation**: This graph evaluates the effectiveness of different promotional campaigns by comparing the total transaction value associated with each campaign. It helps in understanding which campaigns were most successful in driving sales.
 
